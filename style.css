@@ -1,4 +1,4 @@
-body, div, h1, h2, form, fieldset, input, textarea, footer, p {
+/* body, div, h1, h2, form, fieldset, input, textarea, footer, p {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -161,4 +161,14 @@ h1{
 	-moz-transition: opacity 1s ease-in-out 2s;
 	-o-transition: opacity 1s ease-in-out 2s;
 	transition: opacity 1s ease-in-out 2s;
-}
+} */
+
+body {
+    background-color: #000;    
+    margin: 0;
+    overflow: hidden;
+    background-repeat: no-repeat;
+  }
+  h2{
+    color: white;
+  }
